@@ -1,0 +1,14 @@
+{
+    "name": "pollux/test",
+    "description": "My first Composer project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pollux",
+            "email": "pollux@pollux.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
